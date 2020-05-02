@@ -1,0 +1,14 @@
+{
+  "name": "my-webpage",
+  "version": "1.0.0",
+  "description": "a new web page (tryal)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Alanis",
+  "license": "ISC"
+}
