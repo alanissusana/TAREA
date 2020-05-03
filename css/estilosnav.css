@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+
+}
+
+body {
+    background: limegreen;
+
+}
+
+nav {
+    background: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+}
+
+
+ul li {
+    display: inline-block;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li:hover {
+    background: grey;
+    /*para cambiar el coor al poener el mouse encima*/
+}
+
+ul li a:hover {
+background: beige;    
+}
